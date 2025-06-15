@@ -9,9 +9,12 @@
 <body>
     <table>
         <tbody>
-            <td>ashan</td>
-            <td>main</td>
-            <td>ali</td>
+           <td>new</td>
+           <td>new</td>
+           <td>new</td>
+           <td>new</td>
+           <td>new</td>
+           <td>new</td>
         </tbody>
     </table>
 </body>
