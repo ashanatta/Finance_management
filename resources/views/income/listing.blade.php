@@ -8,7 +8,10 @@
 </head>
 <body>
     <form action="" method="post">
-        <label for="name">name</label>
+        <label for="name">welcome to git</label>
+        <input type="text">
+        <input type="text">
+        <input type="text">
         <input type="text">
         <label for="price">ali </label>
         <input type="text">
