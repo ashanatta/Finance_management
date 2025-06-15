@@ -10,7 +10,7 @@
     <form action="" method="post">
         <label for="name">name</label>
         <input type="text">
-        <label for="price">price</label>
+        <label for="price">ali </label>
         <input type="text">
     </form>
 </body>
